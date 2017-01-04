@@ -41,8 +41,8 @@ Technical test
   It's evident that value of Affinity unchange for every year and there are only 2 types of Agent_Breed. So I introduced
   an attribute for counting times of change:
   In the case auto_renew = 0:
-  - If agent whose Breed_original == Breed_C 
-      If times_change is impair then nbLost++
-      Else times_change is pair then nbRegained++
-    Else 
-      If times_change is impair then nbGained++
+  If agent whose Breed_original == Breed_C 
+    If times_change is impair then nbLost++
+    Else times_change is pair then nbRegained++
+  Else 
+    If times_change is impair then nbGained++
