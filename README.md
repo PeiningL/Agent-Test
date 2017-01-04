@@ -18,7 +18,7 @@ Technical test
 
 - Description
   
-  I chose language Python who is easy for data handling to accomplish the test. For importing data original, we can convert a XLSX file to CSV file or load a CSV file directly by the small program. Accroding to algorithm below, the program is going to update the data automatically and to show 2 figures(pie and bar) for displaying statistic of data output. These figures will be saved as PNG file automatically with name in the format: pie(or bar)_nbYears_BrandFactor in the folder auto-created with the same name of original data file. We are able to export the new data as a CSV file.
+  I chose language Python who is easy for data handling to accomplish the test. For importing data original, we can convert a XLSX file to CSV file or load a CSV file directly by the small program. Accroding to algorithm below, the program is going to update the data automatically and to show 2 figures(pie and bar) for displaying statistic of data output. These figures will be saved as PNG file automatically with name in the format: pie(or bar)_nbYears_BrandFactor in the folder auto-created with the same name of original data file. We are able to export the new data as a CSV file as well.
 
   Input: Brand Factor between 0.1 and 2.9
 
